@@ -1,0 +1,20 @@
+table tr{
+	text-align: center;
+}
+table tr th{
+	text-align: center;
+}
+
+div{
+	margin: 10px;
+}
+
+
+.sp{
+	
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 20px;
+	font-weight: bold;
+	color: dodgerblue;	
+}
